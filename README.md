@@ -1,2 +1,2 @@
 # Studies
- knowledge and exercises
+ <b>knowledge</b> and exercises
