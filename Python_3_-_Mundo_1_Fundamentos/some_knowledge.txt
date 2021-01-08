@@ -1,0 +1,18 @@
+************************************************************************************************************************
+													Python 3
+************************************************************************************************************************			
+. Em Python toda variável é um objeto
+. Uma variável recebe valores de entrada de um usuário através de input:
+
+Exemplo Sintax
+nome = input('Qual é o seu nome ?')
+
+Qual é o seu nome ? Nascimeto
+
+. Ao declarar o tipo (int/char ..etc) de um valor de entrada em uma variável deifne-se o mesmo antes do input:
+
+numero1 = int(input('Entre com o primeiro numero: '))
+numero2 = int(input('Entre com o segundo numero: '))
+
+Nos exemplos acima o valor recebido nas variáveis numero1 e numero2 são do tipo int (INTEGER/NÚMERO INTEIRO).
+************************************************************************************************************************
